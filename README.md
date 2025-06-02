@@ -38,3 +38,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 ### `npm run build` fails to minify
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+<mark>
+### Task Details 
+Design the Layout:
+Use React Bootstrap components to structure the app:
+Form.Group for the input field.
+Button for the "Add" button.
+ListGroup or Card for displaying the added items.
+Style the To-Do App:
+	Note :- (First watch module 9)
+Apply React Bootstrap classes (like container, row, col) to organize the layout.
+Ensure proper spacing, alignment, and responsiveness.
+Other Points:
+Add a "Delete" button for each item to remove it from the list.
+Add a heading styled with React Bootstrap's Navbar.
+
+Submission Guidelines:- Submit your github repo link
+
+</mark>
+
